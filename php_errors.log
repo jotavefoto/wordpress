@@ -1,0 +1,50 @@
+[11-Oct-2017 18:51:32 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'customtheme_steup' not found or invalid function name in /home/ubuntu/workspace/wp-includes/class-wp-hook.php on line 298
+[11-Oct-2017 18:51:32 UTC] PHP Stack trace:
+[11-Oct-2017 18:51:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[11-Oct-2017 18:51:32 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[11-Oct-2017 18:51:32 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[11-Oct-2017 18:51:32 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[11-Oct-2017 18:51:32 UTC] PHP   5. do_action() /home/ubuntu/workspace/wp-settings.php:432
+[11-Oct-2017 18:51:32 UTC] PHP   6. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[11-Oct-2017 18:51:32 UTC] PHP   7. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[11-Oct-2017 18:51:32 UTC] PHP   8. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[11-Oct-2017 18:53:33 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'customtheme_steup' not found or invalid function name in /home/ubuntu/workspace/wp-includes/class-wp-hook.php on line 298
+[11-Oct-2017 18:53:33 UTC] PHP Stack trace:
+[11-Oct-2017 18:53:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[11-Oct-2017 18:53:33 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[11-Oct-2017 18:53:33 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[11-Oct-2017 18:53:33 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[11-Oct-2017 18:53:33 UTC] PHP   5. do_action() /home/ubuntu/workspace/wp-settings.php:432
+[11-Oct-2017 18:53:33 UTC] PHP   6. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[11-Oct-2017 18:53:33 UTC] PHP   7. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[11-Oct-2017 18:53:33 UTC] PHP   8. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[11-Oct-2017 18:55:34 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'customtheme_steup' not found or invalid function name in /home/ubuntu/workspace/wp-includes/class-wp-hook.php on line 298
+[11-Oct-2017 18:55:34 UTC] PHP Stack trace:
+[11-Oct-2017 18:55:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[11-Oct-2017 18:55:34 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[11-Oct-2017 18:55:34 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[11-Oct-2017 18:55:34 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[11-Oct-2017 18:55:34 UTC] PHP   5. do_action() /home/ubuntu/workspace/wp-settings.php:432
+[11-Oct-2017 18:55:34 UTC] PHP   6. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[11-Oct-2017 18:55:34 UTC] PHP   7. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[11-Oct-2017 18:55:34 UTC] PHP   8. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[11-Oct-2017 18:57:34 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'customtheme_steup' not found or invalid function name in /home/ubuntu/workspace/wp-includes/class-wp-hook.php on line 298
+[11-Oct-2017 18:57:34 UTC] PHP Stack trace:
+[11-Oct-2017 18:57:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[11-Oct-2017 18:57:34 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[11-Oct-2017 18:57:34 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[11-Oct-2017 18:57:34 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[11-Oct-2017 18:57:34 UTC] PHP   5. do_action() /home/ubuntu/workspace/wp-settings.php:432
+[11-Oct-2017 18:57:34 UTC] PHP   6. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[11-Oct-2017 18:57:34 UTC] PHP   7. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[11-Oct-2017 18:57:34 UTC] PHP   8. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
+[11-Oct-2017 18:59:34 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'customtheme_steup' not found or invalid function name in /home/ubuntu/workspace/wp-includes/class-wp-hook.php on line 298
+[11-Oct-2017 18:59:34 UTC] PHP Stack trace:
+[11-Oct-2017 18:59:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/wp-admin/admin-ajax.php:0
+[11-Oct-2017 18:59:34 UTC] PHP   2. require_once() /home/ubuntu/workspace/wp-admin/admin-ajax.php:22
+[11-Oct-2017 18:59:34 UTC] PHP   3. require_once() /home/ubuntu/workspace/wp-load.php:37
+[11-Oct-2017 18:59:34 UTC] PHP   4. require_once() /home/ubuntu/workspace/wp-config.php:92
+[11-Oct-2017 18:59:34 UTC] PHP   5. do_action() /home/ubuntu/workspace/wp-settings.php:432
+[11-Oct-2017 18:59:34 UTC] PHP   6. WP_Hook->do_action() /home/ubuntu/workspace/wp-includes/plugin.php:453
+[11-Oct-2017 18:59:34 UTC] PHP   7. WP_Hook->apply_filters() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:323
+[11-Oct-2017 18:59:34 UTC] PHP   8. call_user_func_array:{/home/ubuntu/workspace/wp-includes/class-wp-hook.php:298}() /home/ubuntu/workspace/wp-includes/class-wp-hook.php:298
