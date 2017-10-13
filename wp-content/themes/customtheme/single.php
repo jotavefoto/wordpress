@@ -12,12 +12,17 @@
 <div class="container"> 
     <div class="row">
         
-      <div class="col-md-8">
-            <!--Wordpress Loop-->
-            <?php if ( have_posts() ) : ?> 
+      <div class="col-md-8"> <!--Main column-->
+           
+            <?php if ( have_posts() ) : ?>  <!--Wordpress loop-->
                     <?php while ( have_posts() ) : the_post(); ?>
-                        <h2><?php the_title(); ?></h2>
-                        <?php the_content(); ?>
+                        <?php get_template_part('template-parts/content', 'single'); ?> <!--Call a content-single.php-->
+                        
+                        <?php //Get comments.php
+                            if( comments_open() || get_comments_number() ) {
+                                comments_template();
+                            }
+                        ?>
                     <?php endwhile; ?>
             <?php endif; ?>
             
@@ -28,13 +33,14 @@
                     ) );
             }
             ?>
-        </div>
+            
+        </div><!--Main column end-->
         
-        <div class="col-md-4">
+        <div class="col-md-4"> <!--Sidebar-->
             <?php get_sidebar(); ?>
-        </div> 
+        </div> <!--Sidebar end-->
         
-    </div> <!--Row close-->
+    </div> <!--Row end-->
 </div>
     
 <?php get_footer(); ?>
